@@ -50,7 +50,7 @@ const Main = () => {
               ))}
             </div>
           </div>
-            <img src={FirstBlockImg} alt="Phone image" className="h-[684px] hidden sm:block  mt-[64px] absolute sm:right-[-190px] md:right-[-250px] lg:right-[-165px] xl:right-[200px]"/>
+            <img src={FirstBlockImg} alt="Phone image" className="h-[684px] hidden sm:block  mt-[64px] absolute sm:right-[-190px] md:right-[-250px] lg:right-[-165px] xl:right-[0px] 2xl:right-[200px]"/>
         </div>
       </div>
     </div>
