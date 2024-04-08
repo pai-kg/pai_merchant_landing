@@ -1,5 +1,5 @@
 import Logo from "../assets/Logo business Pai.svg";
-import FirstBlockImg from "../assets/Block 1 3.svg";
+// import FirstBlockImg from "../assets/Block 1 3.svg";
 import { firstBlockCardsInfo } from "../utilities/constants";
 
 const Main = () => {
@@ -50,7 +50,8 @@ const Main = () => {
               ))}
             </div>
           </div>
-            <img src={FirstBlockImg} alt="Phone image" className="h-[684px] hidden sm:block  mt-[64px] absolute sm:right-[-190px] md:right-[-250px] lg:right-[-165px] xl:right-[0px] 2xl:right-[200px]"/>
+            {/* <img src={FirstBlockImg} alt="Phone image" className="h-[684px] hidden sm:block  mt-[64px] absolute sm:right-[-190px] md:right-[-250px] lg:right-[-165px] xl:right-[0px] 2xl:right-[200px]"/> */}
+            <img src="https://res.cloudinary.com/dj893hyy7/image/upload/v1712591352/Final_block1_drt68v.webp" alt="Phone image" className="h-[730px] hidden sm:block  mt-[64px] absolute sm:right-[-190px] md:right-[-250px] lg:right-[-165px] xl:right-[0px] 2xl:right-[200px]"/>
         </div>
       </div>
     </div>
