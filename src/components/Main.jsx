@@ -1,4 +1,4 @@
-import Logo from "../assets/Logo business Pai.svg";
+
 // import FirstBlockImg from "../assets/Block 1 3.svg";
 import { firstBlockCardsInfo } from "../utilities/constants";
 
