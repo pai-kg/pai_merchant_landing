@@ -13,7 +13,7 @@ const FirstBlock = () => {
         </div>
         <div className="flex flex-col sm:flex-row items-center justify-around sm:justify-between text-left border-[1px] border-[#191919] rounded-3xl bg-[#191919] h-[400px] sm:h-[328px] pt-[24px] sm:pt-[0px] px-[20px] sm:px-[80px] mx-4 sm:mx-0">
           <div className="sm:w-1/2 flex items-center justify-center order-2 sm:order-1">
-            <img src="/NFC_Phone.png" alt="NFC_Phone" className="max-h-full w-[300px] sm:w-[369px] sm:max-w-full" />
+            <img src="./NFC_Phone.png" alt="NFC_Phone" className="max-h-full w-[300px] sm:w-[369px] sm:max-w-full" />
           </div>
           <div className="sm:w-1/2 order-1 sm:order-2">
             <h5 className="text-[28px] sm:text-[40px] font-semibold">Оплата заказа</h5>
@@ -31,7 +31,7 @@ const FirstBlock = () => {
           </div>
           <div className="sm:w-1/2 flex items-center justify-center">
             <img
-              src="/Final_Pos.png"
+              src="./Final_Pos.png"
               alt="Final_Pos image"
               className="max-h-full w-[300px] sm:w-[480px] sm:max-w-full" 
             />
@@ -39,7 +39,7 @@ const FirstBlock = () => {
         </div>
         <div className="flex flex-col sm:flex-row items-center sm:justify-between text-left border-[1px] border-[#191919] rounded-3xl bg-[#191919] h-[328px] pt-[24px] sm:pt-[0px] px-[20px] sm:px-[80px] mx-4 sm:mx-0">
           <div className="sm:w-1/2 flex items-center justify-center order-2 sm:order-1">
-            <img src="/Last_Block.png" alt="Last_Block img" className="max-h-full w-[212px] sm:w-[369px] sm:max-w-[340px] object-contain" />
+            <img src="./Last_Block.png" alt="Last_Block img" className="max-h-full w-[212px] sm:w-[369px] sm:max-w-[340px] object-contain" />
           </div>
           <div className="sm:w-1/2 order-1 sm:order-2">
             <h5 className="text-[28px] sm:text-[40px] font-semibold">Кэшбэк бонусами</h5>

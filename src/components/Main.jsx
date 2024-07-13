@@ -6,7 +6,7 @@ const Main = () => {
     <div className="flex flex-col mb-[80px] sm:mb-[160px] w-full sm:items-center">
       <div className="max-w-[1032px]">
         <div className="flex items-center justify-between h-[64px] mt-[32px] mx-4 sm:mx-0">
-          <img src="/logo.svg" alt="Logo Pai" />
+          <img src="./logo.svg" alt="Logo Pai" />
           <button className="text-[16px] sm:text-[20px] bg-[#E9E9E9] rounded-2xl">
             <a
               href="https://api.whatsapp.com/send/?phone=%2B996505205058"
