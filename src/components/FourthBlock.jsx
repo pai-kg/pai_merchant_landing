@@ -9,8 +9,9 @@ const FourthBlock = () => {
           </h5>
           <button className="text-black bg-white text-[20px] font-bold mt-[40px] mb-[120px]">
             <a
-              href="https://api.whatsapp.com/send/?phone=%2B996505205058&text&type=phone_number&app_absent=0"
+              href="https://api.whatsapp.com/send/?phone=%2B996505205058"
               className="font-bold text-black"
+              target="_blank"
             >
               Участвовать
             </a>

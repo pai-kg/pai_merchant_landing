@@ -1,5 +1,4 @@
 
-// import FirstBlockImg from "../assets/Block 1 3.svg";
 import { firstBlockCardsInfo } from "../utilities/constants";
 
 const Main = () => {
@@ -7,11 +6,12 @@ const Main = () => {
     <div className="flex flex-col mb-[80px] sm:mb-[160px] w-full sm:items-center">
       <div className="max-w-[1032px]">
         <div className="flex items-center justify-between h-[64px] mt-[32px] mx-4 sm:mx-0">
-          <img src="https://res.cloudinary.com/dj893hyy7/image/upload/v1716540709/logotype_uwgaeo.svg" alt="Logo Pai" />
+          <img src="/logo.svg" alt="Logo Pai" />
           <button className="text-[16px] sm:text-[20px] bg-[#E9E9E9] rounded-2xl">
             <a
-              href="https://api.whatsapp.com/send/?phone=%2B996505205058&text&type=phone_number&app_absent=0"
+              href="https://api.whatsapp.com/send/?phone=%2B996505205058"
               className="font-bold text-black"
+              target="_blank"
             >
               Участвовать
             </a>
@@ -50,8 +50,7 @@ const Main = () => {
               ))}
             </div>
           </div>
-            {/* <img src={FirstBlockImg} alt="Phone image" className="h-[684px] hidden sm:block  mt-[64px] absolute sm:right-[-190px] md:right-[-250px] lg:right-[-165px] xl:right-[0px] 2xl:right-[200px]"/> */}
-            <img src="https://res.cloudinary.com/dj893hyy7/image/upload/v1712591352/Final_block1_drt68v.webp" alt="Phone image" className="h-[730px] hidden sm:block  mt-[64px] absolute sm:right-[-190px] md:right-[-250px] lg:right-[-165px] xl:right-[0px] 2xl:right-[200px]"/>
+            <img src="/Hero.webp" alt="Hero image" className="h-[730px] hidden sm:block  mt-[64px] absolute sm:right-[-190px] md:right-[-250px] lg:right-[-165px] xl:right-[0px] 2xl:right-[200px]"/>
         </div>
       </div>
     </div>
