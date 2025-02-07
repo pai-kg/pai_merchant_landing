@@ -34,7 +34,7 @@ const Main = () => {
                   0 сом
                 </p>
                 <p className="text-[18px] text-[#8A898E]">
-                  Стоимость интеграции и пользования
+                  Стоимость интеграции
                 </p>
               </div>
               {firstBlockCardsInfo.map((card) => (
