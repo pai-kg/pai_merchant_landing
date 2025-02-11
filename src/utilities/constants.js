@@ -11,7 +11,7 @@ import pizza from "../assets/pizza.svg";
 export const firstBlockCardsInfo = [
   {
     icon: arrow,
-    description: "Интеграция с Poster, iiko и c другими POS",
+    description: "Интеграция с Poster и Rkeeper",
   },
   {
     icon: wifi,
