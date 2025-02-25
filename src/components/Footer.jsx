@@ -16,8 +16,8 @@ const Footer = () => {
       </div>
       <div className="flex flex-col md:flex-row w-full items-center justify-center text-gray-500 text-sm pb-8 md:pb-20 gap-2 md:gap-4">
         <p>2025</p>
-        <a href="https://ducks-begin-5fj.craft.me/yQUruXbc0ozN3O" className="mt-4 md:mt-0">Пользовательское соглашение</a>
-        <a href="https://ducks-begin-5fj.craft.me/s9xKrjL3187lTd" className="mt-4 md:mt-0">Политика конфиденциальности</a>
+        <a href="https://pai.craft.me/6dPTHpbBBE7FMz" className="mt-4 md:mt-0">Пользовательское соглашение</a>
+        <a href="https://pai.craft.me/gtcR5qYph9bHI1" className="mt-4 md:mt-0">Политика конфиденциальности</a>
       </div>
     </div>
   );
